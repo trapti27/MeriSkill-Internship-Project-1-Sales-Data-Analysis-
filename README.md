@@ -41,3 +41,6 @@ This project focused on analyzing data of "MeriSKILL".
 
 - **Excel:** Used for Data Manipulation, calculations and basic visualizations.
 - **Power BI:**  Used DAX to derive valuable insights through calculations and measures and for creating interactive & visually appealing dashboards and charts.
+
+## Dataset 🔗
+- **Link:** https://docs.google.com/spreadsheets/d/1t_jdOQ4xheZgCrWY6bhqMsaDJHTCvMI1/edit
